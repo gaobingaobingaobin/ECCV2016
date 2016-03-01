@@ -1,0 +1,4 @@
+#ignore file lists:
+./data/*
+*.png
+*~
